@@ -80,3 +80,7 @@ Each appointment must have a payment associated with it. The table stores the am
 
 This schema ensures high normalization, reflects real-world relations, and is ready for SQL implementation and GitHub documentation.
 
+## Clinic Schema  
+![Clinic Schema](clinic_schema.jpeg)
+
+
